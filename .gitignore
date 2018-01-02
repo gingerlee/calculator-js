@@ -2,3 +2,6 @@ node_modules/
 .DS_Store
 *.map
 sass-cache/
+bower_components/
+build/
+tmp/
